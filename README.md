@@ -63,6 +63,7 @@
 
 ## 文件問答 / 知識庫
 
+- [Remio](https://remio.ai/) — 本地優先 AI 記憶與知識庫,索引文件/網頁/會議/郵件/筆記,快速找回個人上下文
 - [NotebookLM](https://notebooklm.google.com/) — Google 出品,丟文件直接問,免費
 - [Perplexity](https://www.perplexity.ai/) — 帶引用的 AI 搜尋
 - [Khoj](https://khoj.dev/) — 開源個人知識庫 AI
