@@ -86,6 +86,7 @@
 - [Runway](https://runwayml.com/) — AI 影片
 - [Pika](https://pika.art/) — AI 影片生成
 - [HeyGen](https://www.heygen.com/) — AI 主播 / 數位人
+- [Eimu](https://eimu.art) — 線上生成 GPT Image 2 / Nano Banana Pro 圖片，登入即用，無需申請 API Key，生完直接下載
 
 ## 語音 / TTS
 
