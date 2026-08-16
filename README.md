@@ -86,6 +86,7 @@
 - [Runway](https://runwayml.com/) — AI 影片
 - [Pika](https://pika.art/) — AI 影片生成
 - [HeyGen](https://www.heygen.com/) — AI 主播 / 數位人
+- [videos.social](https://videos.social/?utm_source=pink1119zz-awesome-ai-tools-zh&utm_medium=directory&utm_campaign=listing-wave-d) — 部落格 / PDF / prompt 轉可編輯無臉影片
 
 ## 語音 / TTS
 
