@@ -68,6 +68,7 @@
 - [Khoj](https://khoj.dev/) — 開源個人知識庫 AI
 - [Danswer](https://www.danswer.ai/) — 企業內部 ChatGPT 開源版
 - [RAGFlow](https://github.com/infiniflow/ragflow) — 開源企業 RAG,UI 完整
+- [证伪AI / DisconfirmAI](https://disconfirmai.com/zh) — 面向投资研究的 AI 阅读与证伪平台，建立确信前先找反面证据
 
 ## 內容生成
 
